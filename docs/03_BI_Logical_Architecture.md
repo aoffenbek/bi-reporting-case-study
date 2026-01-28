@@ -2,7 +2,7 @@
 **Project:** Enterprise BI Reporting Lifecycle – Insurance Case Study  
 **Document ID:** DOC-03  
 **Version:** v1.0  
-**Author:** <Your Name>  
+**Author:** Agnes Offenbek  
 **Role:** BI / Reporting Business Analyst  
 **Date:** Week 2–3  
 
